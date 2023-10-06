@@ -8,20 +8,20 @@ const InformationContainer = () => {
       <AiFillPhone id="phone-icon" />
       <div>
         <h3>Telefone</h3>
-        <p>(11)94271-7987</p>
+        <p>(11) 94271-7987</p>
       </div>
     </div>
     <div className="info-card">
       <AiOutlineMail id="email-icon" />
       <div>
         <h3>E-mail</h3>
-        <p>rafael.linoseabra@gmail</p>
+        <p>rafael.linoseabra@gmail.com</p>
       </div>
     </div>
     <div className="info-card">
       <AiFillEnvironment id="pin-icon" />
       <div>
-        <h3>Localizacao</h3>
+        <h3>Localização</h3>
         <p>Sao Paulo / SP</p>
       </div>
     </div>
